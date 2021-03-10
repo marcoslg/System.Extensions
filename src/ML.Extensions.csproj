@@ -4,14 +4,14 @@
         <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
 		<Authors>Marcos Lopez</Authors>
 		<Company />
-		<Product />
+		<Product />		
 		<PackageProjectUrl>https://github.com/marcoslg/System.Extensions</PackageProjectUrl>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<RepositoryUrl>https://github.com/marcoslg/System.Extensions</RepositoryUrl>
 		<Description>
 			Helper extensions for collections, Task, validations, etc.
 		</Description>
-		<Version>1.1.2</Version>
+		<Version>1.0.0</Version>
 		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>

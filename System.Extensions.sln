@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Extensions", "src\System.Extensions.csproj", "{6B2C0B25-6FB9-447F-888A-1F5DBF647136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.Extensions", "src\ML.Extensions.csproj", "{6B2C0B25-6FB9-447F-888A-1F5DBF647136}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5ADE125D-9677-493C-BFE2-2A5212E13134}"
 EndProject
