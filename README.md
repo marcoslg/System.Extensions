@@ -2,7 +2,7 @@
 
 
 | NameSpace  | Type | Function/method| return | Descripción  |
-|-------------|-----|------|:-----:|
+|-------------|-----|------|:-----:|------|
 | System.Collections.Generic.Extensions | IDictionary<string, string> |  GetValueSecure(string key) | string | Gets the value securely. If not EXISTS Key => return string.Empty | 
 | System.Collections.Extensions | IEnumerable\<T> | IsNullOrEmpty() | bool | Indicates whether the specified enumerable is null or an empty sequence. | 
 | System.Collections.Extensions | IEnumerable\<T> | ForEach(Action\<T> action) | IEnumerable\<T> | It's fluent api. Invokes an action for every item of the enumerable.  | 
